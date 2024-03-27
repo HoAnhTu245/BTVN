@@ -1,0 +1,17 @@
+{
+    "editor.quickSuggestions": {
+        "comments": "on",
+        "strings": "on"
+    },
+    "editor.suggest.snippetsPreventQuickSuggestions": false,
+    "editor.snippetSuggestions": "top",
+    "editor.suggestSelection": "first",
+    "[jsonc]": {
+        "editor.quickSuggestions": {
+            "comments": "on",
+            "strings": "on"
+        }
+    },
+    "editor.suggest.preview": true,
+    "editor.inlineSuggest.showToolbar": "always"
+}
